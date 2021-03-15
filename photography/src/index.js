@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import MyButton from './components/Button/button';
 import ImageCard from './components/Card/card'
 
 function App() {
